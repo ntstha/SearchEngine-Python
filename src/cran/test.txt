@@ -1,0 +1,42 @@
+.I 1
+.T
+.A
+brenckman,m.
+.W
+pease, porridge hot, pease porridge cold
+.I 2
+.T
+simple 
+.A
+ting-yili
+.B
+.W
+pease porridge in the pot
+.I 3
+.T
+simple 
+.A
+.B
+.W
+nine days old
+.I 4
+.T
+simple
+.A
+.B
+.W
+in the pot cold, in the pot hot
+.I 5
+.T
+simple
+.A
+.B
+.W
+pease porridge, pease porridge
+.I 6
+.T
+simple
+.A
+.B
+.W
+eat the lot
